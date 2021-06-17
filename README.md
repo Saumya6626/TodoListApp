@@ -11,4 +11,6 @@ Made using HTML,CSS and JAVASCRIPT as front-end.
 
 It uses Node js and MongoDB as Back-end and databases.
 
-Been connected using MongoDB atlas with Heroku used for deployment
+Been connected using MongoDB atlas with Heroku used for deployment.
+
+Enjoy using the Website at https://damp-headland-96765.herokuapp.com/
